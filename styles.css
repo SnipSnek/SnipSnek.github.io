@@ -1,0 +1,22 @@
+body
+{
+    background-color: black;
+    color:rgb(255, 255, 255)
+}
+
+h1
+{ 
+    color: white;
+    text-align: center;
+    background-color: green;
+    opacity: 0.5;
+}
+
+a
+{
+    color:white;
+    text-align: center;
+    background-color: green;
+    border: 2px green;
+    border-radius: 5px;
+}
